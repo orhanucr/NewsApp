@@ -1,4 +1,4 @@
-# NewsApp
+# News App
 <h2>HTML Parser ile Haberler Uygulaması </h2>
 <p>Bu projede, Html Parser ve Jsoup ile siteden haberler çekilir. Haberin görüntüsü ve başlığı ile anasayfada gösterilir. Habere tıklanıldığında WebView ile haber sayfası açılır ve haberin tamamı kullanıcıya gösterilir. Haber resimleri ile ilgili işlemler için Picasso kütüphanesi kullanılmıştır. </p>
 
